@@ -27,3 +27,21 @@ Este projeto foi desenvolvido como parte da **Terceira Entrega da disciplina de 
 
 ## 🧩 Estrutura de Pastas
 
+
+
+---
+
+## 🧠 Tecnologias Utilizadas
+
+- **HTML5** – Estrutura e páginas internas  
+- **CSS3** – Estilização e layout responsivo  
+- **JavaScript (ES Modules)** – Lógica da SPA, templates e validações  
+- **LocalStorage API** – Persistência de dados no navegador  
+
+---
+
+## 🧪 Como Testar Localmente
+
+1. Baixe o projeto ou clone o repositório:
+   ```bash
+   git clone https://github.com/SEU-USUARIO/projeto-js-avancado.git
